@@ -1,5 +1,7 @@
 # yoRadio_Vert_ESP32S3_ILI9488
 WEB Radio (eRadio - yoRadio) with ESP32S3 and ILI9488 TFT Display
+If you use it and like it, you can support with:
+https://buymeacoffee.com/yo2ldk
 
 ![S3 board settings](https://github.com/user-attachments/assets/b43047f5-12a1-4dc7-8b13-8353abb06f0e)
 
